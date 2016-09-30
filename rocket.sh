@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+ls -all
+
 cd $ROCKET_WORKSPACE
 
 set -u -o -x -v
